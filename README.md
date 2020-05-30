@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 
-This is the Exploratory Data Analysis repository, providing some basic information and concepts, using Python. There are different libraries that are going to be examined here.
+This is the Exploratory Data Analysis repository, providing some basic information and concepts, using Python and the iris dataset. There are different libraries that are going to be examined here and some content is included below:
 
 EDA 1 - Normality Testing, T-testing and ANOVA
 - Kurtosis and skewness test
@@ -11,7 +11,6 @@ EDA 1 - Normality Testing, T-testing and ANOVA
 
 
 EDA 2 - Parallel Coordinates, Distributions, Barplots, Scatterplots and Scatterplot Matrix
-- Iris dataset
 - Checking of parallel coordinates
 - Checking Histogram
 - Checking bar chart
@@ -19,7 +18,6 @@ EDA 2 - Parallel Coordinates, Distributions, Barplots, Scatterplots and Scatterp
 - Checking scatterplot matrix
 
 EDA 3 - Covariance, Correlation and Non Parametric Testing
-- Iris dataset
 - Covariance
 - Correlation / Pearson
 - Non parametric test / Spearman
